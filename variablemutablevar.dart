@@ -1,6 +1,6 @@
 void main() {
-  var name = "Arya";
-  name = "Lior";
+  var name = "Sascha Danu";
+  name = "Aca";
 
   print(name);
 }
